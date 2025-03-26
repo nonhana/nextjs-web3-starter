@@ -26,7 +26,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 为了学习 nextjs，请查看一下文档：
 
-- [Next.js Beta 文档](https://beta.nextjs.org) - 了解最新的 nextjs 特行
+- [Next.js Beta 文档](https://beta.nextjs.org) - 了解最新的 nextjs 特性
 - [Next.js 标准文档](https://nextjs.org/docs) - 学习 Next.js 通用特性和 API.
 - [学习 Next.js](https://nextjs.org/learn) - tutorial.
 
